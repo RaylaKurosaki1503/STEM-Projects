@@ -48,19 +48,19 @@
 
 
 <!-- Analyzing the Bifurcations of a System -->
-### Analyzing the Bifurcations of a System
+## Analyzing the Bifurcations of a System
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- Exploring the Chaotic Behavior of the Double Pendulum System -->
-### Exploring the Chaotic Behavior of the Double Pendulum System
+## Exploring the Chaotic Behavior of the Double Pendulum System
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- Markov Model of Badminton Games -->
-### Markov Model of Badminton Games
+## Markov Model of Badminton Games
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
