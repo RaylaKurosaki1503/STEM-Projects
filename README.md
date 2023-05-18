@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur ex vulput
 
 <!-- LICENSE -->
 ## License
-This repository, and all of its contents, are protected under a custom, ***closed-source*** license. See [`LICENSE.txt`](LICENSE) for more information.
+This repository, and all of its contents, are protected under a custom, ***closed-source*** license. See [`LICENSE`](LICENSE) for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
