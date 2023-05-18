@@ -30,13 +30,13 @@
         Projects
         <ul>
             <li>
-                <a href="#Analyzing_the_Bifurcations_of_a_System">Analyzing the Bifurcations of a System</a>
+                <a href="#Analyzing-the-Bifurcations-of-a-System">Analyzing the Bifurcations of a System</a>
             </li>
             <li>
-                <a href="#Exploring_the_Chaotic_Behavior_of_the_Double_Pendulum_System">Exploring the Chaotic Behavior of the Double Pendulum System</a>
+                <a href="#Exploring-the-Chaotic-Behavior-of-the-Double-Pendulum-System">Exploring the Chaotic Behavior of the Double Pendulum System</a>
             </li>
             <li>
-                <a href="#Markov_Model_of_Badminton_Games">Markov Model of Badminton Games</a>
+                <a href="#Markov-Model-of-Badminton-Games">Markov Model of Badminton Games</a>
             </li>
         </ul>
     </li>
