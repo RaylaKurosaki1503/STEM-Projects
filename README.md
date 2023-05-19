@@ -33,7 +33,7 @@
             <li><a href="#Markov-Model-of-Badminton-Games">Markov Model of Badminton Games</a></li>
         </ul>
     </li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#license-(CC-BY-4.0)">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -62,8 +62,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur ex vulput
 
 
 <!-- LICENSE -->
-## License
-See [`LICENSE.md`](LICENSE) for more information.
+## License (CC BY 4.0)
+Copyright Ⓒ 2023-Present Rayla Kurosaki『黒崎 レイラ』
+
+This repository, and all of its contents, are protected under the 
+[Creative Commons Attribution 4.0 International][license-url] license.
+
+[license-url]: https://creativecommons.org/licenses/by/4.0/legalcode
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
