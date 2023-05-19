@@ -26,18 +26,11 @@
 <details>
 <summary>Table of Contents</summary>
 <ol>
-    <li>
-        Projects
+    <li>Projects
         <ul>
-            <li>
-                <a href="#Analyzing-the-Bifurcations-of-a-System">Analyzing the Bifurcations of a System</a>
-            </li>
-            <li>
-                <a href="#Exploring-the-Chaotic-Behavior-of-the-Double-Pendulum-System">Exploring the Chaotic Behavior of the Double Pendulum System</a>
-            </li>
-            <li>
-                <a href="#Markov-Model-of-Badminton-Games">Markov Model of Badminton Games</a>
-            </li>
+            <li><a href="#Analyzing-the-Bifurcations-of-a-System">Analyzing the Bifurcations of a System</a></li>
+            <li><a href="#Exploring-the-Chaotic-Behavior-of-the-Double-Pendulum-System">Exploring the Chaotic Behavior of the Double Pendulum System</a></li>
+            <li><a href="#Markov-Model-of-Badminton-Games">Markov Model of Badminton Games</a></li>
         </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -70,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur ex vulput
 
 <!-- LICENSE -->
 ## License
-This repository, and all of its contents, are protected under a custom, ***closed-source*** license. See [`LICENSE`](LICENSE) for more information.
+See [`LICENSE.md`](LICENSE) for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
