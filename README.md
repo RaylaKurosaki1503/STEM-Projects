@@ -33,7 +33,7 @@
             <li><a href="#Markov-Model-of-Badminton-Games">Markov Model of Badminton Games</a></li>
         </ul>
     </li>
-    <li><a href="#license-(CC-BY-4.0)">License</a></li>
+    <li><a href="#license">License (CC BY 4.0)</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
