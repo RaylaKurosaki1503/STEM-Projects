@@ -42,21 +42,21 @@
 
 <!-- Analyzing the Bifurcations of a System -->
 ## Analyzing the Bifurcations of a System
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur ex vulputate justo venenatis hendrerit. Maecenas quis vestibulum nibh. Ut malesuada quam tortor, vel blandit tellus facilisis vitae. Maecenas at libero scelerisque, dignissim arcu eu, aliquam nisi. Pellentesque tincidunt dolor non sapien varius interdum. Aenean eros augue, mattis id eleifend eget, egestas quis quam. Duis gravida est id nisi tincidunt, malesuada ornare tellus porta. Pellentesque sit amet maximus enim. Fusce pharetra ultrices urna, a varius ex ullamcorper facilisis. Quisque ac mollis urna. Curabitur malesuada leo est, vitae porta augue aliquam a. Nullam viverra eros eu magna ultricies malesuada. Aenean est eros, pretium et rutrum sed, vestibulum eget massa. Praesent tempus ac velit eget malesuada.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- Exploring the Chaotic Behavior of the Double Pendulum System -->
 ## Exploring the Chaotic Behavior of the Double Pendulum System
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur ex vulputate justo venenatis hendrerit. Maecenas quis vestibulum nibh. Ut malesuada quam tortor, vel blandit tellus facilisis vitae. Maecenas at libero scelerisque, dignissim arcu eu, aliquam nisi. Pellentesque tincidunt dolor non sapien varius interdum. Aenean eros augue, mattis id eleifend eget, egestas quis quam. Duis gravida est id nisi tincidunt, malesuada ornare tellus porta. Pellentesque sit amet maximus enim. Fusce pharetra ultrices urna, a varius ex ullamcorper facilisis. Quisque ac mollis urna. Curabitur malesuada leo est, vitae porta augue aliquam a. Nullam viverra eros eu magna ultricies malesuada. Aenean est eros, pretium et rutrum sed, vestibulum eget massa. Praesent tempus ac velit eget malesuada.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- Markov Model of Badminton Games -->
 ## Markov Model of Badminton Games
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur ex vulputate justo venenatis hendrerit. Maecenas quis vestibulum nibh. Ut malesuada quam tortor, vel blandit tellus facilisis vitae. Maecenas at libero scelerisque, dignissim arcu eu, aliquam nisi. Pellentesque tincidunt dolor non sapien varius interdum. Aenean eros augue, mattis id eleifend eget, egestas quis quam. Duis gravida est id nisi tincidunt, malesuada ornare tellus porta. Pellentesque sit amet maximus enim. Fusce pharetra ultrices urna, a varius ex ullamcorper facilisis. Quisque ac mollis urna. Curabitur malesuada leo est, vitae porta augue aliquam a. Nullam viverra eros eu magna ultricies malesuada. Aenean est eros, pretium et rutrum sed, vestibulum eget massa. Praesent tempus ac velit eget malesuada.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
