@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<a href="https://github.com/RaylaKurosaki1503/STEM_Projects">
+<a href="https://github.com/rkp1503/STEM_Projects">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
 </a>
 
@@ -14,7 +14,7 @@
 <p align="center">
     This repository contains the reports of all the projects in the STEM field, along with their respective code if any, that I would like to make public.
     <br />
-    <a href="https://github.com/RaylaKurosaki1503/STEM_Projects"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rkp1503/STEM_Projects"><strong>Explore the docs »</strong></a>
     <br />
     <br />
 </p>
@@ -77,5 +77,5 @@ This repository, and all of its contents, are protected under the
 ## Contact
 Rayla Kurosaki - raylakurosaki1503@gmail.com
 
-Project Link: [https://github.com/RaylaKurosaki1503/STEM_Projects](https://github.com/RaylaKurosaki1503/STEM_Projects)
+Project Link: [https://github.com/rkp1503/STEM_Projects](https://github.com/rkp1503/STEM_Projects)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
