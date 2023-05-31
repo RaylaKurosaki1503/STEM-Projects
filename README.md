@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -27,13 +25,12 @@
 <summary>Table of Contents</summary>
 <ol>
     <li>Projects
-        <ul>
+<!--         <ul>
             <li><a href="#Analyzing-the-Bifurcations-of-a-System">Analyzing the Bifurcations of a System</a></li>
             <li><a href="#Exploring-the-Chaotic-Behavior-of-the-Double-Pendulum-System">Exploring the Chaotic Behavior of the Double Pendulum System</a></li>
             <li><a href="#Markov-Model-of-Badminton-Games">Markov Model of Badminton Games</a></li>
-        </ul>
+        </ul> -->
     </li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -41,35 +38,23 @@
 
 
 <!-- Analyzing the Bifurcations of a System -->
-## Analyzing the Bifurcations of a System
+<!-- ## Analyzing the Bifurcations of a System
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- Exploring the Chaotic Behavior of the Double Pendulum System -->
-## Exploring the Chaotic Behavior of the Double Pendulum System
+<!-- ## Exploring the Chaotic Behavior of the Double Pendulum System
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- Markov Model of Badminton Games -->
-## Markov Model of Badminton Games
+<!-- ## Markov Model of Badminton Games
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-Copyright Ⓒ 2023-Present Rayla Kurosaki『黒崎 レイラ』
-
-This repository, and all of its contents, are protected under the 
-[Creative Commons Attribution 4.0 International][license-url] license.
-
-[license-url]: https://creativecommons.org/licenses/by/4.0/legalcode
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
