@@ -74,7 +74,7 @@ The double pendulum is a classic example of a chaotic system that exhibits compl
 <!-- Red Blood Cell Production -->
 #### _Red Blood Cell Production_
 
-Red Blood Cells are present in the human body and their purpose is to deliver oxygen to the human body while giving carbon dioxide for humans to exhale. The purpose of this paper is to show that Red Blood Cells can maintain an equilibrium state if a certain condition is met. Multiple models have been tested to show that this condition is consistent given the proper assumptions. The first model being analyzed is a system of linear difference equations. The second model being analyzed is a system of linear differential equations. The third model being analyzed is also a system of linear difference equations with the assumption that the spleen removes a portion of Red Blood Cells based on the number of Red Blood Cells present in the human body. In particular, as the number of Red Blood Cells in the human body increases, the portion of Red Blood Cells filtered out by the spleen will increase non-linearly. This condition is where $\gamma = 1$.
+Red Blood Cells are present in the human body and their purpose is to deliver oxygen to the human body while giving carbon dioxide for humans to exhale. The purpose of this paper is to show that Red Blood Cells can maintain an equilibrium state if a certain condition is met. Multiple models have been tested to show that this condition is consistent given the proper assumptions. The first model being analyzed is a system of linear difference equations. The second model being analyzed is a system of linear differential equations. The third model being analyzed is a system of nonlinear difference equations. This condition is where $\gamma = 1$.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,11 +83,24 @@ Red Blood Cells are present in the human body and their purpose is to deliver ox
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Red Blood Cell Production
-- [x] Chaotic Behavior of Double Pendulum Systems
+- [ ] Red Blood Cell Production
+    - [x] Report with code
+    - [x] Code in python
+    - [ ] Code in julia
+- [ ] Chaotic Behavior of Double Pendulum Systems
+    - [x] Report with code
+    - [x] Code in python
+    - [ ] Code in julia
 - [ ] Bifurcation of Systems
+    - [ ] Report with code
+    - [ ] Code in python
 - [ ] Complex Dynamics of a Three Species Ecosystem
+    - [ ] Report with code
+    - [ ] Code in python
+    - [ ] Code in julia
 - [ ] Markov Model of Badminton Games
+    - [ ] Report with code
+    - [ ] Code in python
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
