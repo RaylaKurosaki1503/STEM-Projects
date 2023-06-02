@@ -33,8 +33,8 @@
             <li><a href="#red-blood-cell-production">Red Blood Cell Production</a></li>
         </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
+<!--     <li><a href="#roadmap">Roadmap</a></li> -->
+<!--     <li><a href="#license">License</a></li> -->
     <li><a href="#contact">Contact</a></li>
 </ol>
 </details>
@@ -81,7 +81,7 @@ Red Blood Cells are present in the human body and their purpose is to deliver ox
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap
 
 - [ ] Red Blood Cell Production
     - [x] Report with code
@@ -102,16 +102,16 @@ Red Blood Cells are present in the human body and their purpose is to deliver ox
     - [ ] Report with code
     - [ ] Code in python
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- License -->
-## License
+<!-- ## License
 
 This repository has two (2) different licenses. All the reports in this repository (pdf files) are protected under the [Creative Commons Attribution 4.0 International](LICENSE-CC-BY-4) license while all the code in this repository are protected under the [MIT](LICENSE-MIT) license. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
@@ -119,5 +119,5 @@ This repository has two (2) different licenses. All the reports in this reposito
 ## Contact
 Rayla Kurosaki - raylakurosaki1503@gmail.com
 
-Project Link: [https://github.com/rkp1503/STEM_Projects](https://github.com/rkp1503/STEM_Projects)
+<!-- Project Link: [https://github.com/rkp1503/STEM_Projects](https://github.com/rkp1503/STEM_Projects) -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
