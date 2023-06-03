@@ -80,8 +80,8 @@
 <div>
     <h2 id="license">License</h2>
     <p>This repository has two (2) different licenses.</p>
-    <p>All the reports in this repository (pdf files) are protected under the <b><i>Creative Commons Attribution 4.0 International</i></b> license. See <a href="LICENSE-CC-BY-4">LICENSE-CC-BY-4</a> for more information.</p>
-    <p>All the code in this repository are protected under the <b><i>MIT</i></b> license. See <a href="LICENSE-MIT">LICENSE-MIT</a> for more information.</p>
+    <p>All the reports in this repository (pdf files) are protected under the <b><i>Creative Commons Attribution 4.0 International license</i></b>. See <a href="LICENSE-CC-BY-4">LICENSE-CC-BY-4</a> for more information.</p>
+    <p>All the code in this repository are protected under the <b><i>MIT license</i></b>. See <a href="LICENSE-MIT">LICENSE-MIT</a> for more information.</p>
     <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
