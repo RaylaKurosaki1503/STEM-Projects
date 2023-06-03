@@ -69,7 +69,7 @@
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
         </li>
         <li>
-            <h4 id="red-blood-cell-production"><a href="https://github.com/rkp1503/STEM-Projects/tree/master/projects/Red%20Blood%20Cell%20Production"><i>Red Blood Cell Production</i></a></h4>
+            <h4 id="red-blood-cell-production"><a href="projects/Red Blood Cell Production"><i>Red Blood Cell Production</i></a></h4>
             <p>Red Blood Cells are present in the human body and their purpose is to deliver oxygen to the human body while giving carbon dioxide for humans to exhale. The purpose of this paper is to show that Red Blood Cells can maintain an equilibrium state if a certain condition is met. Multiple models have been tested to show that this condition is consistent given the proper assumptions. The first model being analyzed is a system of linear difference equations. The second model being analyzed is a system of linear differential equations. The third model being analyzed is a system of nonlinear difference equations. This condition is where $\gamma = 1$.</p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
         </li>
