@@ -44,7 +44,7 @@
     <h2>List of Projects</h2>
     <ul>
         <!-- <li>
-            <h4 id="project-title"><a href="https://example.com"><i>project_title</i></a></h4>
+            <h4 id="project-title"><a href="projects/project_title"><i>project_title</i></a></h4>
             <p></p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
         </li> -->
@@ -54,7 +54,7 @@
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
         </li>
         <li>
-            <h4 id="chaotic-behavior-of-double-pendulum-systems"><a href="https://example.com"><i>Chaotic Behavior of Double Pendulum Systems</i></a></h4>
+            <h4 id="chaotic-behavior-of-double-pendulum-systems"><a href="projects/Chaotic Behavior of Double Pendulum Systems"><i>Chaotic Behavior of Double Pendulum Systems</i></a></h4>
             <p>The double pendulum is a classic example of a chaotic system that exhibits complex and unpredictable behavior. In this paper, we investigate the dynamics of the double pendulum and analyze its chaotic characteristics. We begin by formulating the equations of motion using Lagrangian mechanics, considering the gravitational forces and constraints on the system. Through numerical simulations and computational techniques, we explore the evolution of the double pendulum system under various initial conditions. Our analysis reveals that the double pendulum demonstrates sensitive dependence on initial conditions, commonly referred to as the "butterfly effect." Small variations in the initial conditions lead to significant deviations in the system's subsequent motion, making long-term predictions challenging.</p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
         </li>
