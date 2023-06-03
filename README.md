@@ -79,7 +79,8 @@
 <!-- LICENSE -->
 <div>
     <h2 id="license">License</h2>
-    <p>Name: Rayla Kurosaki</p>
+    <p>This repository has two (2) different licenses.</p>
+    <p>All the reports in this repository (pdf files) are protected under the <b><i>Creative Commons Attribution 4.0 International</i></b> license. See <a href="LICENSE-CC-BY-4">LICENSE-CC-BY-4</a> for more information.</p>
     <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
