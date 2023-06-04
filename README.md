@@ -90,6 +90,6 @@
 <div>
     <h2 id="author-info">Author Info</h2>
     <p>Name: Rayla Kurosaki</p>
-    <p>Project Link: <a href="https://github.com/rkp1503/STEM_Projects">https://github.com/rkp1503/STEM-Projects</a></p>
+    <p>Project Link: <a href="https://github.com/rkp1503/STEM-Projects">https://github.com/rkp1503/STEM-Projects</a></p>
     <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
