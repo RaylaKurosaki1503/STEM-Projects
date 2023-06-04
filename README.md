@@ -11,10 +11,10 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-    <a href="https://github.com/rkp1503/STEM_Projects"><img src="assets/logo.png" alt="Logo" width="100" height="auto"></a>
+    <a href="https://github.com/rkp1503/STEM-Projects"><img src="assets/logo.png" alt="Logo" width="100" height="auto"></a>
     <h3 align="center">STEM Projects</h3>
     <p align="center">
-        This repository serves as a way to quickly find all of my STEM related projects I would like to make public. Each project listed has a link to the repository and either a short description or an abstract to describe what the project is about.
+        This repository serves as a way to quickly find all of my STEM related projects I would like to make public. Each project listed has a link to the repository and either a short description or an abstract to describe what the project is about. Do keep in mind that the reports and provided code are <b>NOT</b> the original copies. While retaining the same info, the reports are structured in a way to make it more readable and the provided code has been optimized and modified for clarity.
         <br />
     </p>
 </div>
