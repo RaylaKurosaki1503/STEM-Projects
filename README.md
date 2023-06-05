@@ -2,6 +2,8 @@
 *** Author: Rayla Kurosaki
 *** GitHub: https://github.com/rkp1503
 -->
+
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -14,7 +16,7 @@
     <a href="https://github.com/rkp1503/STEM-Projects"><img src="assets/logo.png" alt="Logo" width="100" height="auto"></a>
     <h3 align="center">STEM Projects</h3>
     <p align="center">
-        This repository serves as a way to quickly find all of my STEM related projects I would like to make public. Each project listed has a link to the repository and either a short description or an abstract to describe what the project is about. Do keep in mind that the reports and provided code are <b>NOT</b> the original copies. While retaining the same info, the reports are structured in a way to make it more readable and the provided code has been optimized and modified for clarity.
+        This repository serves as a way to quickly find all of my STEM related projects I would like to make public. Each project listed has a link to the repository and either a short description or an abstract to describe what the project is about. Do keep in mind that the papers and provided source code are <b>NOT</b> my original copies of the papers and source code. These papers were modified in a way so that it is more presentable while maintaining all of the information from the original. The source code was reformatted in a way so that it is optimized and structured for readability.
         <br />
     </p>
 </div>
@@ -26,6 +28,7 @@
 <ol>
     <li>List of Projects
         <ul>
+            <!-- <li><a href="#project-title">project_title</a></li> -->
             <li><a href="#bifurcation-of-systems">Bifurcation of Systems</a></li>
             <li><a href="#chaotic-behavior-of-double-pendulum-systems">Chaotic Behavior of Double Pendulum Systems</a></li>
             <li><a href="#complex-dynamics-of-a-three-species-ecosystem">Complex Dynamics of a Three Species Ecosystem</a></li>
@@ -60,21 +63,23 @@
         </li>
         <li>
             <h4 id="complex-dynamics-of-a-three-species-ecosystem"><a href="projects/Complex Dynamics of a Three Species Ecosystem"><i>Complex Dynamics of a Three Species Ecosystem</i></a></h4>
-            <p></p>
+            <p>This paper investigates the dynamics of a model system by modifying key assumptions to explore alternative ecological interactions. The original model, outlined in the paper <a href="https://www.sciencedirect.com/science/article/pii/S2666720722000327">Complex dynamics of a three species predator–prey model with two nonlinearly competing species</a>, initially assumes a competition interaction between species <i>X</i> and <i>Y</i>. However, we consider the implications of assuming a mutualism interaction instead. Additionally, we modify the assumption of a commensalism interaction between species <i>X</i> and <i>Z</i> to examine the consequences of an amensalism interaction. Furthermore, the model is expanded by assuming a logistic growth pattern for species <i>Z</i>. Through these modifications, we determine the new equilibrium points and conduct a comprehensive analysis of their characteristics. Numerical computations are performed to assess the stability or instability of the newly derived equilibrium points. The obtained results offer valuable insights into the dynamics and stability of the modified model, shedding light on the consequences of mutualism and amensalism interactions in the examined ecological system. This research contributes to a deeper understanding of the interrelationships between species interactions and population dynamics in ecological systems.</p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
         </li>
         <li>
-            <h4 id="markov-model-of-badminton-games"><a href="projects/Markov Model of Badminton Games"><i>Markov Model of Badminton Games</i></a></h4>
-            <p></p>
+            <h4 id="markov-model-of-badminton-games"><i>Markov Model of Badminton Games</i></h4>
+            <!-- <h4 id="markov-model-of-badminton-games"><a href="projects/Markov Model of Badminton Games"><i>Markov Model of Badminton Games</i></a></h4> -->
+            <p>WIP</p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
         </li>
         <li>
             <h4 id="red-blood-cell-production"><a href="projects/Red Blood Cell Production"><i>Red Blood Cell Production</i></a></h4>
-            <p>Red Blood Cells are present in the human body and their purpose is to deliver oxygen to the human body while giving carbon dioxide for humans to exhale. The purpose of this paper is to show that Red Blood Cells can maintain an equilibrium state if a certain condition is met. Multiple models have been tested to show that this condition is consistent given the proper assumptions. The first model being analyzed is a system of linear difference equations. The second model being analyzed is a system of linear differential equations. The third model being analyzed is a system of nonlinear difference equations. This condition is where $\gamma = 1$.</p>
+            <p>Red Blood Cells are present in the human body and their purpose is to deliver oxygen to the human body while giving carbon dioxide for humans to exhale. The purpose of this paper is to show that Red Blood Cells can maintain an equilibrium state if a certain condition is met. Multiple models have been tested to show that this condition is consistent given the proper assumptions. The first model being analyzed is a system of linear difference equations. The second model being analyzed is a system of linear differential equations. The third model being analyzed is a system of nonlinear difference equations. This condition is where <font face=symbol>g</font> = 1.</p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
         </li>
     </ul>
 </div>
+
 
 <!-- LICENSE -->
 <div>
