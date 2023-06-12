@@ -37,7 +37,7 @@
                 Bifurcation theory plays a fundamental role in understanding the qualitative behavior of dynamical systems. In this paper, we present a comprehensive study of various bifurcations within a carefully constructed system of equations. Our objective is to investigate the dynamic changes and transitions that occur as system parameters are varied. First, we establish a set of equations that capture the essential characteristics of the dynamical system under investigation. These equations are derived based on a thorough analysis of the underlying physical or mathematical phenomenon of interest. We ensure that the system exhibits nonlinear behavior and contains appropriate parameters to facilitate the exploration of bifurcations. Next, we employ analytical techniques to investigate the bifurcation points within the system. By analyzing the stability and eigenvalues of the system, we determine the types of bifurcations that arise, such as saddle-node, transcritical, pitchfork, and Hopf bifurcations. Furthermore, we utilize graphical tools, such as bifurcation diagrams and phase portraits, to visualize and interpret the bifurcation phenomena. In summary, this paper presents a systematic approach to construct a system of equations and investigates the bifurcations within it. Our findings contribute to the broader understanding of bifurcation theory and its applications, providing a valuable framework for exploring and analyzing the dynamic behavior of complex systems.
             <p align="left">
                 <picture>
-                    <a href="https://github.com/rkp1503/Bifurcation-of-Systems"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&repo=Bifurcation-of-Systems"></a>
+                    <a href="https://github.com/rkp1503/Bifurcation-of-Systems"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&theme=radical&repo=Bifurcation-of-Systems"></a>
                 </picture>
             </p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -49,7 +49,7 @@
             </p>
             <p align="left">
                 <picture>
-                    <a href="https://github.com/rkp1503/Chaotic-Behavior-of-Double-Pendulum-Systems"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&repo=Chaotic-Behavior-of-Double-Pendulum-Systems"></a>
+                    <a href="https://github.com/rkp1503/Chaotic-Behavior-of-Double-Pendulum-Systems"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&theme=radical&repo=Chaotic-Behavior-of-Double-Pendulum-Systems"></a>
                 </picture>
             </p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -60,7 +60,7 @@
                 This paper investigates the dynamics of a model system by modifying key assumptions to explore alternative ecological interactions. The original model, outlined in the paper <a href="https://www.sciencedirect.com/science/article/pii/S2666720722000327"><i>Complex dynamics of a three species predator–prey model with two nonlinearly competing species</i></a>, initially assumes a competition interaction between species <i>X</i> and <i>Y</i>. However, we consider the implications of assuming a mutualism interaction instead. Additionally, we modify the assumption of a commensalism interaction between species <i>X</i> and <i>Z</i> to examine the consequences of an amensalism interaction. Furthermore, the model is expanded by assuming a logistic growth pattern for species <i>Z</i>. Through these modifications, we determine the new equilibrium points and conduct a comprehensive analysis of their characteristics. Numerical computations are performed to assess the stability or instability of the newly derived equilibrium points. The obtained results offer valuable insights into the dynamics and stability of the modified model, shedding light on the consequences of mutualism and amensalism interactions in the examined ecological system. This research contributes to a deeper understanding of the interrelationships between species interactions and population dynamics in ecological systems.
             <p align="left">
                 <picture>
-                    <a href="https://github.com/rkp1503/Complex-Dynamics-of-a-Three-Species-Ecosystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&repo=Complex-Dynamics-of-a-Three-Species-Ecosystem"></a>
+                    <a href="https://github.com/rkp1503/Complex-Dynamics-of-a-Three-Species-Ecosystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&theme=radical&repo=Complex-Dynamics-of-a-Three-Species-Ecosystem"></a>
                 </picture>
             </p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,7 +72,7 @@
             </p>
             <p align="left">
                 <picture>
-                    <a href="https://github.com/rkp1503/Markov-Model-of-Badminton-Games"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&repo=Markov-Model-of-Badminton-Games"></a>
+                    <a href="https://github.com/rkp1503/Markov-Model-of-Badminton-Games"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&theme=radical&repo=Markov-Model-of-Badminton-Games"></a>
                 </picture>
             </p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -84,7 +84,7 @@
             </p>
             <p align="left">
                 <picture>
-                    <a href="https://github.com/rkp1503/Red-Blood-Cell-Production"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&repo=Red-Blood-Cell-Production"></a>
+                    <a href="https://github.com/rkp1503/Red-Blood-Cell-Production"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&theme=radical&repo=Red-Blood-Cell-Production"></a>
                 </picture>
             </p>
             <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -96,7 +96,7 @@
             </p>
             <p align="left">
                 <picture>
-                    <a href="https://github.com/rkp1503/project_link"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&repo=project_link"></a>
+                    <a href="https://github.com/rkp1503/project_link"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&theme=radical&repo=project_link"></a>
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkp1503&repo=project_link">
                 </picture>
             </p>
