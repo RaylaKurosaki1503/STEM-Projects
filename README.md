@@ -1,9 +1,7 @@
 <!--
-*** Author: Ramsey (Rayla) Phuc
-*** Alias: Rayla Kurosaki
+*** Author: Rayla Kurosaki
 *** GitHub: https://github.com/rkp1503
 -->
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -23,7 +21,7 @@
                 <summary>Table of Contents</summary>
                 <ol>
                     <ul>
-<!--                         <li><a href="#project-title">project_title</a></li> -->
+                        <!-- <li><a href="#project-title">project_title</a></li> -->
                         <li><a href="#bifurcation-of-systems">Bifurcation of Systems</a></li>
                         <li><a href="#chaotic-behavior-of-double-pendulum-systems">Chaotic Behavior of Double Pendulum Systems</a></li>
                         <li><a href="#complex-dynamics-of-a-three-species-ecosystem">Complex Dynamics of a Three Species Ecosystem</a></li>
